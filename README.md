@@ -1,0 +1,1 @@
+Tiny example using the best part of VB.NET ([XML literals](https://docs.microsoft.com/en-us/dotnet/standard/linq/xml-literals#example-use-a-linq-query-in-an-embedded-expression)) in a library project.
